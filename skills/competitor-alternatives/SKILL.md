@@ -1,6 +1,6 @@
 ---
 name: competitor-alternatives
-description: When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also trigger on "alternative page", "vs page", "competitor comparison", "comparison page", "[Product] vs [Product]", "[Product] alternative", "competitive landing pages", "how do I compare to competitors". Covers four formats: singular alternative, plural alternatives, you vs competitor, competitor vs competitor.
+description: 'When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also trigger on "alternative page", "vs page", "competitor comparison", "comparison page", "[Product] vs [Product]", "[Product] alternative", "competitive landing pages", "how do I compare to competitors". Covers four formats: singular alternative, plural alternatives, you vs competitor, competitor vs competitor.'
 metadata:
   version: 1.0.0
   author: Sudhakar

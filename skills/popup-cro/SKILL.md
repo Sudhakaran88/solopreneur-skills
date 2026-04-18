@@ -1,6 +1,6 @@
 ---
 name: popup-cro
-description: When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also trigger on "exit intent popup", "popup conversions", "modal optimization", "lead capture popup", "email popup", "announcement banner", "overlay", "lightbox", "sticky bar". For forms not in popups, see form-cro. For general page CRO, see page-cro. Note: intrusive mobile popups risk Google penalties — this skill covers compliant approaches.
+description: 'When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also trigger on "exit intent popup", "popup conversions", "modal optimization", "lead capture popup", "email popup", "announcement banner", "overlay", "lightbox", "sticky bar". For forms not in popups, see form-cro. For general page CRO, see page-cro. Note: intrusive mobile popups risk Google penalties — this skill covers compliant approaches.'
 metadata:
   version: 1.0.0
   author: Sudhakar
