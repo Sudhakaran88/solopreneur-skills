@@ -1,0 +1,27 @@
+name: Skill improvement
+description: Improve an existing skill with new research, better frameworks, or updated benchmarks
+title: "[Improvement]: "
+labels: [enhancement]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill name
+      description: Which skill should be improved?
+      placeholder: skill-name
+    validations:
+      required: true
+  - type: textarea
+    id: gap
+    attributes:
+      label: What's outdated or missing
+      description: Describe what's wrong, stale, or missing in the current skill.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source / research to base the update on
+      description: Cite specific sources, studies, frameworks, or benchmarks.
+    validations:
+      required: true

@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea/
+__pycache__/
+*.pyc
+.env
+.env.local
+dist/
+build/
+README.md.old
+*.bak
+.claude/

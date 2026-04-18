@@ -1,0 +1,59 @@
+name: New skill proposal
+description: Propose a new skill to add to the repo
+title: "[New skill]: "
+labels: [new-skill, needs-triage]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Proposed skill name
+      description: Lowercase with hyphens (e.g. cold-email, pricing-strategy)
+      placeholder: my-new-skill
+    validations:
+      required: true
+  - type: input
+    id: oneliner
+    attributes:
+      label: One-line description
+      description: What does this skill do in a single sentence?
+    validations:
+      required: true
+  - type: textarea
+    id: icp
+    attributes:
+      label: Who this helps
+      description: Which solopreneur archetype or ICP does this serve?
+      placeholder: e.g. indie SaaS founders post-launch, solo consultants, creators monetizing a newsletter
+    validations:
+      required: true
+  - type: textarea
+    id: triggers
+    attributes:
+      label: Trigger phrases
+      description: What would a user say or ask that should cause this skill to fire?
+      placeholder: |
+        - "help me write..."
+        - "how do I..."
+    validations:
+      required: true
+  - type: textarea
+    id: overlap
+    attributes:
+      label: Overlap with existing skills
+      description: Does this overlap with any existing skill? Which ones?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why existing skills don't cover this
+      description: Explain the gap.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources / research you'd base it on
+      description: Books, frameworks, studies, benchmarks, practitioners.
+    validations:
+      required: true

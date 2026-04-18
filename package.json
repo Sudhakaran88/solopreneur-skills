@@ -1,0 +1,37 @@
+{
+  "name": "solopreneur-skills",
+  "version": "1.0.0",
+  "description": "42 AI agent skills for solopreneurs — CRO, SEO, GTM, cold email, pricing, and more.",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "ai-agent",
+    "solopreneur",
+    "marketing",
+    "cro",
+    "seo",
+    "saas",
+    "shopify",
+    "wordpress",
+    "cold-email",
+    "growth",
+    "indie-hacker",
+    "ai-seo",
+    "geo"
+  ],
+  "author": "Sudhakar",
+  "license": "MIT",
+  "homepage": "https://github.com/Sudhakaran88/solopreneur-skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sudhakaran88/solopreneur-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sudhakaran88/solopreneur-skills/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Sudhakaran88"
+  }
+}
