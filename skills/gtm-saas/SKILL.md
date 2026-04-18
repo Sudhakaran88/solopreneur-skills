@@ -77,7 +77,7 @@ ICP → Positioning → Pricing → Motion → Channels
 
 3. **Pricing third** — Price signals who the product is for. $29/mo says self-serve SMB. $500/mo says serious professional. $2,000+/mo says business buyer. Price also determines *which motion is economically viable* (see ACV table in Section 6).
 
-4. **Motion fourth** — Once you know the ACV and buyer complexity, you pick the motion: self-serve, product-led sales, or sales-led. This is the single highest-leverage decision in GTM.
+4. **Motion fourth** — Once you know the ACV and buyer complexity, you pick the motion: self-serve, product-led sales, or sales-led. This is the single highest-impact decision in GTM.
 
 5. **Channels last** — Channels execute the motion. PLG uses different channels than SLG. Picking channels before the motion is like choosing a road before you know the destination.
 

@@ -156,7 +156,7 @@ In 2025, Google also retired support for: Course Info, Claim Review, Estimated S
 
 AI search engines process schema differently from traditional crawlers, but schema still matters — for different reasons.
 
-**Perplexity AI:** Explicitly uses structured data to identify reliable, machine-readable sources. Pages with robust schema appear more frequently in Perplexity's citations because the platform prioritizes well-defined entity information.
+**Perplexity AI:** Explicitly uses structured data to identify reliable, machine-readable sources. Pages with valid, well-typed schema appear more frequently in Perplexity's citations because the platform prioritizes well-defined entity information.
 
 **Google AI Overviews / AI Mode:** Google confirmed in April 2025 that structured data gives an advantage in AI-generated search results.
 

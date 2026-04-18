@@ -178,8 +178,8 @@ AI copy isn't the problem. **Average-taste humans directing AI** is the problem.
 ### AI tells to avoid (the em-dash-industrial-complex)
 - The rhetorical em-dash — like this — used three times per paragraph
 - *"In today's fast-paced landscape"*
-- *"Unlock the power of"*
-- *"Delve,"* *"leverage,"* *"seamlessly,"* *"robust,"* *"holistic,"* *"empower"*
+- *`"Unlock the power of"`*
+- *`"Delve,"`* *`"leverage,"`* *`"seamlessly,"`* *`"robust,"`* *`"holistic,"`* *`"empower"`*
 - Perfectly balanced tricolons in every single paragraph (three nouns, three verbs, three clauses)
 - Paragraphs that are all the same length. Real humans vary. Short. Then long and sprawling. Then short again.
 - *"It's not just X — it's Y."* Copy this and burn it.
@@ -198,7 +198,7 @@ Pulled from 200+ Reddit threads in r/copywriting, r/SaaS, r/marketing, r/Entrepr
 2. **Clever H1 with no what.** *"Yes to work."* *"Make it happen."* Nobody knows what you sell. (r/SaaS)
 3. **Feature dumps without the job.** 14 bullets about capabilities, zero about outcomes. (r/marketing)
 4. **First-person "We."** *"We build tools that…"* — make it "You get." (r/copywriting)
-5. **AI slop tells.** Em-dashes, tricolons, "delve," "leverage," balanced-paragraph syndrome. Readers clock it in 2 seconds. (r/copywriting)
+5. **AI slop tells.** Em-dashes, tricolons, `"delve,"` `"leverage,"` balanced-paragraph syndrome. Readers clock it in 2 seconds. (r/copywriting)
 6. **No target named.** Copy that fits any SaaS = copy that sells no SaaS. (r/SaaS)
 7. **Six CTAs above the fold.** Pick one. (r/marketing)
 8. **Testimonials with no last name / title / company.** Reads fake, tested fake, is fake-smelling even when real. (r/Entrepreneur)

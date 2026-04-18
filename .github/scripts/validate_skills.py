@@ -7,12 +7,12 @@ Hard failures (exit 1):
   - `description` missing
   - `metadata.{version,author,license}` missing or wrong shape
   - Over MAX_LINES lines
+  - Banned phrases anywhere in the body (excluding code spans / fences)
 
 Advisory warnings (do not fail CI; printed for author attention):
   - Missing recommended sections (Common Mistakes, Contrarian Takes, Related Skills)
   - Missing or mismatched footer line
   - `description` outside 50–1024 characters
-  - Banned phrases anywhere in the body
 """
 import re
 import sys
@@ -55,6 +55,18 @@ def _phrase_pattern(phrase: str) -> re.Pattern[str]:
 
 
 BANNED_PATTERNS = [(p, _phrase_pattern(p)) for p in BANNED_PHRASES]
+
+# Strip fenced code blocks (```...```) and inline code (`...`) before scanning
+# for banned phrases. Authors can quote the words verbatim in code spans when
+# discussing them as terms (e.g. in copy-editing.md) without tripping the rule.
+_FENCED_CODE_RE = re.compile(r"```.*?```", re.DOTALL)
+_INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
+
+
+def _strip_code(body: str) -> str:
+    body = _FENCED_CODE_RE.sub("", body)
+    body = _INLINE_CODE_RE.sub("", body)
+    return body
 
 
 def validate(skill_md: Path):
@@ -117,10 +129,11 @@ def validate(skill_md: Path):
         if expected_footer not in body:
             warnings.append(f"footer line missing or incorrect (expected: {expected_footer!r})")
 
+    scan_body = _strip_code(body)
     for phrase, pattern in BANNED_PATTERNS:
-        hits = pattern.findall(body)
+        hits = pattern.findall(scan_body)
         if hits:
-            warnings.append(f"banned phrase {phrase!r} appears {len(hits)}x — rewrite")
+            errors.append(f"banned phrase {phrase!r} appears {len(hits)}x — rewrite")
 
     return errors, warnings
 

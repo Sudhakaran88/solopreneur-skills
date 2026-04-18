@@ -105,7 +105,7 @@ LEVER 3: Save → Intercept cancellation intent
 LEVER 4: Recover → Reclaim failed payments + win back churned users
 ```
 
-Most solopreneurs focus only on Lever 3 (the cancel button). The highest leverage is actually Levers 1 and 4.
+Most solopreneurs focus only on Lever 3 (the cancel button). The highest impact is actually Levers 1 and 4.
 
 ---
 
@@ -323,7 +323,7 @@ Exit surveys are intelligence, not just a retention tool. Every cancellation is 
 ## Common Mistakes
 
 **1. Only having a cancel button — no flow**
-The single highest-leverage improvement most solopreneurs can make in an afternoon. A basic cancel flow with one save offer takes 2–4 hours to set up and immediately captures 15–30% of churning users.
+The single highest-impact improvement most solopreneurs can make in an afternoon. A basic cancel flow with one save offer takes 2–4 hours to set up and immediately captures 15–30% of churning users.
 
 **2. Ignoring involuntary churn**
 Most solopreneurs look at churned users and assume it was a product decision. In reality, 20–40% of that churn was a failed credit card. Check Stripe's revenue recovery dashboard before assuming you have a product problem.
@@ -348,13 +348,13 @@ Targeting low-engagement, low-value churned users with win-back campaigns damage
 ## Contrarian Takes
 
 **"Discounting saves customers" — Not always.**
-Discounting retains users who are price-sensitive, not value-convinced. If they churn anyway at the end of the discount period, you've just deferred the loss while reducing your LTV. A pause, a personal call, or a feature unlock often outperforms a discount — and does not erode pricing integrity.
+Discounting retains users who are price-sensitive, not value-convinced. If they churn anyway when the discount expires, you've just deferred the loss while reducing your LTV. A pause, a personal call, or a comped feature often outperforms a discount — and does not erode pricing integrity.
 
 **"Cancellation flows are manipulative" — The bad ones are. The good ones are helpful.**
 A cancellation flow that asks why you're leaving and offers a genuinely useful alternative (pause, downgrade, a quick call) is serving the customer. The goal is not to trick them into staying — it is to make sure they know their options before they leave. Most users who cancel don't know pausing exists.
 
 **"Reducing churn starts with a great offboarding experience" — Yes, but the real work starts 90 days before.**
-By the time someone clicks cancel, the decision is usually made. The highest-leverage churn prevention work happens at activation (did they reach value?) and at the 30-day disengagement signal (did you notice and intervene?). Most solopreneurs only think about churn at the cancellation screen.
+By the time someone clicks cancel, the decision is usually made. The highest-impact churn prevention work happens at activation (did they reach value?) and at the 30-day disengagement signal (did you notice and intervene?). Most solopreneurs only think about churn at the cancellation screen.
 
 **"Involuntary churn is not your fault, so don't worry about it" — Wrong.**
 Failed payment recovery is the closest thing to free money in SaaS. It requires no product improvement, no marketing spend, and no sales skill. It is purely an operational system. A 30-email dunning sequence and smart retries can recover 30–50% of failed payments. Not having this system is a deliberate choice to leave revenue uncollected.

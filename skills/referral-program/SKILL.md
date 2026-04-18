@@ -152,7 +152,7 @@ Match the incentive type to your product and audience. Wrong incentive = low par
 | Incentive | Best For | Pros | Cons |
 |---|---|---|---|
 | **Account Credits** | SaaS subscriptions | High perceived value, zero hard cost, product-sticky | Only works if user plans to stay |
-| **Storage / Feature Unlock** | Freemium SaaS | Dropbox model — aligned with product value | Needs feature-based pricing architecture |
+| **Storage / Feature Grant** | Freemium SaaS | Dropbox model — aligned with product value | Needs feature-based pricing architecture |
 | **Discount on Next Purchase** | Ecommerce | Easy to implement, drives repeat purchase | Trains customers to expect discounts |
 | **Cash / Gift Cards** | B2B, high-ACV SaaS | Universal appeal, easy to understand | Cash is expensive; can attract fraud |
 | **Plan Upgrade** | SaaS | Drives upsell exposure, high perceived value | Complex to automate |

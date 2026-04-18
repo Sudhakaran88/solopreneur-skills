@@ -62,7 +62,7 @@ This is not an opinion — it is the most consistent finding across pricing rese
 
 **Price is a positioning signal.** A $9/month SaaS signals "side project." A $49/month SaaS signals "professional tool." A $149/month SaaS signals "this solves a real business problem." Your price shapes how seriously buyers take you before they ever open the product.
 
-The single highest-leverage pricing move for most solopreneurs is not a new tier structure — it is simply raising the price. One founder doubling their micro-SaaS price attracted better customers with lower churn and higher NPS. This pattern repeats constantly.
+The single highest-impact pricing move for most solopreneurs is not a new tier structure — it is raising the price. One founder doubling their micro-SaaS price attracted better customers with lower churn and higher NPS. This pattern repeats constantly.
 
 **Key benchmark:** Companies implementing value-based pricing grow 2.1x faster than those using cost-plus approaches (2025 SaaS pricing benchmark data, 500+ companies analyzed).
 

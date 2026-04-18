@@ -220,7 +220,7 @@ Results, testimonials, case studies, before/after. This pillar converts readers 
 
 ## 7. Hook Writing
 
-The hook is the first 1–2 lines (LinkedIn) or first tweet (Twitter). It is the single highest-leverage writing task in social content.
+The hook is the first 1–2 lines (LinkedIn) or first tweet (Twitter). It is the single highest-impact writing task in social content.
 
 ### The 2-Line Hook Formula
 

@@ -338,7 +338,7 @@ Most solopreneurs track signups. Almost none track activation. This means you're
 GA4 defaults to 2-month data retention for Explore reports. Set it to 14 months on day one. You cannot retroactively extend it.
 
 **8. Using GA4 for a GDPR-regulated audience without consent management.**
-Austrian, French, and Italian authorities have ruled GA4 data transfers non-compliant without proper consent infrastructure. If you have significant EU traffic, either use Plausible/Fathom or implement a robust CMP.
+Austrian, French, and Italian authorities have ruled GA4 data transfers non-compliant without proper consent infrastructure. If you have significant EU traffic, either use Plausible/Fathom or implement a properly configured CMP.
 
 ---
 

@@ -163,7 +163,7 @@ Here is the reasoning:
 
 1. **Trust barrier is highest at signup.** A stranger has never experienced your product. Asking for payment details at the moment of maximum uncertainty maximizes drop-off.
 2. **Absolute customer count matters more than conversion rate when you are small.** 200 signups at 20% paid conversion = 40 customers. 40 signups at 50% = 20 customers. More trials usually win.
-3. **You cannot sell to people who never signed up.** Email sequences, in-app nudges, and personal outreach can convert no-CC trial users. You have zero leverage over people who bounced at a credit card gate.
+3. **You cannot sell to people who never signed up.** Email sequences, in-app nudges, and personal outreach can convert no-CC trial users. You have no path back to people who bounced at a credit card gate.
 
 ### When CC upfront is justified
 
@@ -208,7 +208,7 @@ Requiring email confirmation before product access interrupts momentum at its pe
 
 ### When to delay or skip verification
 
-- **Delay (verify later):** Grant immediate access. Send verification email, surface a dismissable banner inside the app ("Please verify your email to unlock X feature"). Verify before the first consequential action (e.g., inviting teammates, publishing to a live domain, sending external emails).
+- **Delay (verify later):** Grant immediate access. Send verification email, surface a dismissable banner inside the app ("Please verify your email to enable X feature"). Verify before the first consequential action (e.g., inviting teammates, publishing to a live domain, sending external emails).
 - **Skip entirely:** Viable for low-risk consumer tools or when SSO handles authentication. If the user signed up via Google OAuth, their email is already verified by Google — do not ask again.
 - **Verify at signup (block access):** Only justified when the product sends email on behalf of the user, handles financial transactions, or operates in a regulated industry.
 

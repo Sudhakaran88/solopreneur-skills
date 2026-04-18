@@ -352,7 +352,7 @@ Shorter windows show lower ROAS but give you faster feedback for optimization.
 
 **Running Performance Max before proving Search.** P-Max requires 30+ conversions/month to not be a black box. Without data, it spreads spend across every placement without discrimination.
 
-**Ignoring negative keywords.** For Google Search campaigns, running without a robust negative keyword list burns 20–40% of budget on irrelevant searches. Update weekly from the search terms report.
+**Ignoring negative keywords.** For Google Search campaigns, running without a well-pruned negative keyword list burns 20–40% of budget on irrelevant searches. Update weekly from the search terms report.
 
 **No creative variation on Meta.** One ad with one audience will fatigue within 2–3 weeks. Build a creative library before launching — static images, short-form video, founder content.
 
