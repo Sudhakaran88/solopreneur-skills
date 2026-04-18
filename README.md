@@ -222,4 +222,6 @@ Every merged skill gets you credited in the frontmatter author field and the cha
 
 ---
 
-*Built by [Sudhakar](https://github.com/Sudhakaran88). If a skill helps you ship something, I'd love to hear about it.*
+*Built by **Sudhakar** — [LinkedIn](https://www.linkedin.com/in/sudhakaran88/) · [GitHub](https://github.com/Sudhakaran88)*
+
+*If a skill helps you ship something, I'd love to hear about it. DMs open on LinkedIn.*

@@ -112,4 +112,4 @@ Footer line:
 
 ---
 
-Thanks for making this better. – Sudhakar
+Thanks for making this better. – [Sudhakar](https://www.linkedin.com/in/sudhakaran88/)
