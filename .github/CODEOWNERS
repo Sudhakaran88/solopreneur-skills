@@ -1,0 +1,10 @@
+# Global owner — every PR is reviewed by the maintainer.
+* @Sudhakaran88
+
+# Validator and CI changes need extra attention.
+/.github/                   @Sudhakaran88
+/.github/workflows/         @Sudhakaran88
+/.github/scripts/           @Sudhakaran88
+
+# Plugin manifest — breaking changes affect every installer.
+/.claude-plugin/            @Sudhakaran88

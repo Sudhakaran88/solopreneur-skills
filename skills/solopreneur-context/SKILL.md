@@ -109,3 +109,5 @@ After saving, confirm to the user:
 
 - `product-marketing-context` — the marketing-specific version of this context (for more detailed positioning work)
 - All skills in this collection read this context automatically
+
+*Generated using the solopreneur-context skill from Solopreneur Skills*
