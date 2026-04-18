@@ -27,10 +27,18 @@ Opinionated, research-backed marketing and growth skills for your AI coding agen
 
 ## Quick install — Claude Code
 
-```bash
-# Inside Claude Code
+Inside a running Claude Code session, run the slash commands:
+
+```
 /plugin marketplace add Sudhakaran88/solopreneur-skills
 /plugin install solopreneur-skills
+```
+
+From your terminal (outside a session) the equivalent CLI form is:
+
+```bash
+claude plugin marketplace add Sudhakaran88/solopreneur-skills
+claude plugin install solopreneur-skills
 ```
 
 Then just describe what you want:

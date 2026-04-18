@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Instructions for Claude Code instances working in this repo.
+Instructions for Claude Code instances working in this repo. For the full authoring spec see [`AGENTS.md`](./AGENTS.md); for contribution flow see [`CONTRIBUTING.md`](./CONTRIBUTING.md). If this file disagrees with either, `AGENTS.md` wins.
 
 ## Repository purpose
 
@@ -13,8 +13,11 @@ Every skill lives at `skills/<skill-name>/SKILL.md` with YAML frontmatter:
 ```yaml
 ---
 name: skill-name
-description: One sentence on when to use this skill, with trigger phrases.
-version: 1.0.0
+description: One sentence on when to use this skill, with trigger phrases. 50–1024 characters.
+metadata:
+  version: 1.0.0
+  author: Your Name
+  license: MIT
 ---
 ```
 
@@ -29,18 +32,19 @@ The filename is always `SKILL.md` (uppercase). The folder name is kebab-case and
 
 ## When editing skills
 
-- Preserve the `version` field in frontmatter.
+- Preserve the `metadata.version` field in frontmatter.
 - Bump version on meaningful content changes (not typos): patch for fixes, minor for added sections, major for reorganization.
 - Log the change in `VERSIONS.md`.
 - Run the validator before committing.
 
 ## Style rules
 
-- Hard cap: under 500 lines per `SKILL.md`. If you are over, you are padding.
+- Target under 500 lines per `SKILL.md`. If you are over, you are padding.
 - Plain markdown. Minimal emoji — none in body copy, sparingly in section headers only if the skill already uses them.
-- Banned phrases: "delve", "leverage", "in today's landscape", "unlock", "supercharge", "game-changer".
+- Banned phrases (single source of truth — enforced by the validator as warnings): `delve`, `leverage`, `unlock`, `supercharge`, `game-changer`, `in today's landscape`, `ever-evolving`, `navigate the complexities`, `robust`, `seamless`, `at the end of the day`.
 - Cite sources inline with the year: `(Baymard, 2024)`, `(Nielsen Norman, 2023)`.
 - Every skill must include these three sections: `Common Mistakes`, `Contrarian Takes`, `Related Skills`.
+- Every skill must end with the footer: `*Generated using the <skill-name> skill from Solopreneur Skills*`.
 
 ## Testing a skill
 
@@ -48,7 +52,7 @@ The filename is always `SKILL.md` (uppercase). The folder name is kebab-case and
 python .github/scripts/validate_skills.py
 ```
 
-The validator checks frontmatter, required sections, line count, and banned phrases.
+The validator checks frontmatter (name, description length, `metadata.{version,author,license}`), required sections, footer line, line count, and banned phrases.
 
 ## Commit style
 

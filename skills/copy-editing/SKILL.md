@@ -111,25 +111,25 @@ Final close-up work:
 These words and phrases signal AI-generated copy and should be cut or replaced on sight:
 
 **Verbs to cut:**
-- delve, leverage, harness, utilize (use "use"), underscore, streamline, unlock
+- `delve`, `leverage`, `harness`, `utilize` (use "use"), `underscore`, `streamline`, `unlock`
 
 **Adjectives to cut:**
-- robust, seamless, cutting-edge, innovative, pivotal, comprehensive, dynamic, transformative
+- `robust`, `seamless`, `cutting-edge`, `innovative`, `pivotal`, `comprehensive`, `dynamic`, `transformative`
 
 **Nouns to cut:**
-- landscape, realm, tapestry, synergy, testament, ecosystem (when used metaphorically), journey (when used as a product metaphor)
+- `landscape`, `realm`, `tapestry`, `synergy`, `testament`, `ecosystem` (when used metaphorically), `journey` (when used as a product metaphor)
 
 **Phrases to kill:**
-- "In today's fast-paced landscape..."
-- "In the ever-evolving world of..."
-- "It's important to note that..."
-- "At the end of the day..."
-- "Whether you're a [X] or a [Y]..."
-- "Unlock your potential / success / growth"
-- "A game-changer for..."
-- "Elevate your [anything]"
-- "More than just a [product]..."
-- "We're passionate about..."
+- `"In today's fast-paced landscape..."`
+- `"In the ever-evolving world of..."`
+- `"It's important to note that..."`
+- `"At the end of the day..."`
+- `"Whether you're a [X] or a [Y]..."`
+- `"Unlock your potential / success / growth"`
+- `"A game-changer for..."`
+- `"Elevate your [anything]"`
+- `"More than just a [product]..."`
+- `"We're passionate about..."`
 
 **Punctuation tell:**
 - Overuse of em dashes — like this — in place of commas, colons, or parentheses. One per paragraph, maximum. More than that reads like AI "punching up" prose.
@@ -269,7 +269,7 @@ Run this on any piece of copy in under 5 minutes:
 - [ ] Is the most important claim in the first 2 sentences?
 - [ ] Does every sentence pass the "so what?" test?
 - [ ] Are there any sentences with passive voice? (Kill them)
-- [ ] Any AI-slop words? (delve, leverage, robust, seamless, unlock, landscape)
+- [ ] Any AI-slop words? (`delve`, `leverage`, `robust`, `seamless`, `unlock`, `landscape`)
 - [ ] Any em-dash overuse? (Max 1 per paragraph)
 - [ ] Does the CTA state what happens when you click?
 - [ ] Can this copy be cut by 20% without losing meaning?

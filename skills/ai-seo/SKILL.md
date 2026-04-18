@@ -259,7 +259,7 @@ Fishkin's data: actual AI query volume is a rounding error next to Google. Vendo
 ChatGPT returns the same brand list <1% of the time for identical prompts. Dashboards showing your "AI rank" fluctuating daily are statistical theater. Monthly aggregate trend or nothing.
 
 ### Blocking AI bots probably costs more than it saves
-AI-referred traffic converts 4.4x organic (Superlines). Block `OAI-SearchBot` and you disappear from ChatGPT. Unless you are a large publisher with licensing leverage, blocking is a net loss.
+AI-referred traffic converts 4.4x organic (Superlines). Block `OAI-SearchBot` and you disappear from ChatGPT. Unless you are a large publisher with licensing power, blocking is a net loss.
 
 ### Top-10 SEO ≠ AI citation anymore
 The 76% → 38% drop in overlap means: a separate body of work now exists. Ranking first for your keyword no longer guarantees AI mentions.
@@ -278,7 +278,7 @@ For each page:
 - **Line 3:** one named-authority quote (real person, real title).
 - Then the rest of the page.
 
-This is the highest-leverage, Princeton-backed move. A weekend's work. Moves the needle on every platform.
+This is the highest-impact, Princeton-backed move. A weekend's work. Moves the needle on every platform.
 
 ### 2. Seed a Reddit presence in 2–3 niche subs
 Not a marketing channel. A citation factory.

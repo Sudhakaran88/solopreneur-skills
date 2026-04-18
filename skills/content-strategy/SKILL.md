@@ -52,7 +52,7 @@ Do not build a strategy on assumptions. A content plan built on a wrong ICP is w
 
 Most solopreneurs fall into the same trap: they start posting daily, burn out in 6 weeks, and conclude that "content doesn't work." The treadmill isn't a strategy — it's a grind that produces diminishing returns. The algorithm will always want more. Decide what "enough" looks like, then stop chasing volume.
 
-The goal is a **content engine**, not a content hamster wheel. An engine has a few high-leverage components that work while you sleep. A treadmill needs you to keep running.
+The goal is a **content engine**, not a content hamster wheel. An engine has a few high-impact components that work while you sleep. A treadmill needs you to keep running.
 
 ### Distribution > Creation
 
@@ -141,7 +141,7 @@ Content that doesn't address a real job-to-be-done is vanity content. Map your I
 
 ## 6. Topic Cluster / Hub-and-Spoke Framework
 
-This is the highest-leverage content architecture for a solo operator. One pillar, multiple cluster articles, all internally linked. Google's June 2025 core update explicitly reinforced topical authority over individual post metrics.
+This is the highest-impact content architecture for a solo operator. One pillar, multiple cluster articles, all internally linked. Google's June 2025 core update explicitly reinforced topical authority over individual post metrics.
 
 ### Structure
 

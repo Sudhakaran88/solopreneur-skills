@@ -115,7 +115,7 @@ Long-form content compounds over time. These tactics work best when you pick one
 
 ### 4.2 Community & Distribution Ideas
 
-Communities are where word-of-mouth starts. Showing up authentically — as a helper, not a promoter — is the unlock.
+Communities are where word-of-mouth starts. Showing up authentically — as a helper, not a promoter — is the move.
 
 1. **Indie Hackers milestone posts** — "I hit $X MRR — here's what worked" drives significant inbound because the community wants to see real stories, not pitch decks.
 2. **Show HN posts** — A well-written Hacker News Show HN can drive 10,000–30,000 visitors in a day. Best for technical audiences, developer tools, or genuinely novel ideas.
@@ -209,7 +209,7 @@ Use this to prioritize. Always start with Quick Wins to build momentum before in
 | Free tool as lead magnet | Email list + SEO | 2–6 months |
 | Newsletter (own list) | Direct channel, owned audience | 6–18 months |
 | Podcast appearance circuit | Credibility + warm inbound | 2–6 months |
-| Integration / channel partnerships | Distribution leverage | 3–6 months |
+| Integration / channel partnerships | Distribution scale | 3–6 months |
 
 ### Traps (Sound good, don't work at solo scale)
 | Tactic | Why It's a Trap |

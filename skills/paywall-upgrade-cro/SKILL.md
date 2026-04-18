@@ -33,7 +33,7 @@ Before diving in, gather these details from the user (if not already provided):
 
 1. **Product type** — what does the product do?
 2. **Free plan limits** — what can free users do? Where do they hit walls?
-3. **Paid plan differentiators** — what does upgrading unlock?
+3. **Paid plan differentiators** — what does upgrading enable?
 4. **Current trigger** — when/where does the upgrade prompt currently appear?
 5. **Billing stack** — Lemon Squeezy, Stripe, Paddle, or other?
 6. **Current conversion rate** — what % of free users upgrade, if known?
@@ -120,7 +120,7 @@ Fired when a teammate invites them, when they share something, or when you surfa
 
 ## Feature Gating Strategy
 
-Choosing what to gate is the highest-leverage decision in a freemium model. Wrong gating kills conversion in both directions.
+Choosing what to gate is the highest-impact decision in a freemium model. Wrong gating kills conversion in both directions.
 
 ### Hard Gate
 The feature is completely inaccessible without upgrading. No preview, no partial access.
@@ -158,7 +158,7 @@ A high-converting upgrade modal has six elements, in this order:
 
 ### 1. Headline — Lead with the outcome, not the action
 Bad: "Upgrade to Pro"
-Good: "Unlock unlimited projects and ship faster"
+Good: "Get unlimited projects and ship faster"
 Best: "You've hit the 5-project limit. Pro gives you unlimited — and your work is already saved."
 
 The headline should speak to where the user is right now, not to a generic product benefit.
@@ -184,7 +184,7 @@ Options (pick one, do not stack):
 - If offering multiple tiers, highlight the recommended one — do not make the user decide without a nudge
 
 ### 5. CTA — One primary action, one escape
-- Primary CTA: Specific and outcome-focused ("Start Pro — Unlock Unlimited Projects")
+- Primary CTA: Specific and outcome-focused ("Start Pro — Get Unlimited Projects")
 - Secondary option: Soft exit, not a hard close ("Maybe later" or "Stay on Free")
 - Never use "X" as the only close — it creates abandonment anxiety
 - Button color should contrast with the modal background. Do not use grey for the primary CTA.
@@ -226,7 +226,7 @@ Use these as starting templates. Replace the brackets.
 > "You've reached the limit for [feature] on the free plan. Upgrade to [Plan Name] to [outcome] — no limits, no interruptions."
 
 **Feature discovery (locked feature click):**
-> "[Feature Name] is available on [Plan Name]. [One-sentence benefit]. Upgrade to unlock it now."
+> "[Feature Name] is available on [Plan Name]. [One-sentence benefit]. Upgrade to enable it now."
 
 **Milestone / value moment:**
 > "You've [achieved X milestone]. [Plan Name] users like you also get [next-level benefit]. Ready to level up?"
@@ -235,7 +235,7 @@ Use these as starting templates. Replace the brackets.
 > "Your Pro trial ends in [X] days. After that, you'll lose [specific feature]. Keep [specific feature] by upgrading before [date]."
 
 **Soft gate (partial access):**
-> "You're seeing a preview of [Feature]. Upgrade to [Plan Name] to unlock the full [feature] for [outcome]."
+> "You're seeing a preview of [Feature]. Upgrade to [Plan Name] to enable the full [feature] for [outcome]."
 
 **General in-modal subheadline:**
 > "Join [number]+ [user type] who upgraded to [Plan Name] and [outcome statement]."
@@ -293,7 +293,7 @@ Apps that test paywall variants regularly see 30–50% conversion lifts over tim
 
 If you want fast results without a full redesign, start here:
 
-1. **Add context to your CTA** — Change "Upgrade Now" to "Unlock [Specific Feature]" on every upgrade button.
+1. **Add context to your CTA** — Change "Upgrade Now" to "Get [Specific Feature]" on every upgrade button.
 2. **Add "Cancel anytime" below every CTA** — One line. Reduces friction immediately.
 3. **Move the upgrade trigger 24–48 hours later** — If you are showing it on day 1, push it to day 2–3 after users have formed a habit.
 4. **Add a per-day price breakdown** — "$8/month" becomes "less than $0.27/day." Same price, lower resistance.

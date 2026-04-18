@@ -155,7 +155,7 @@ Daniel Kahneman's dual-process model is the foundation of marketing psychology.
 | "Get 10 more clients" | "Stop leaving 10 clients a month on the table" |
 | "Save 3 hours a week" | "Reclaim the 3 hours you're wasting every week" |
 | "Boost your conversion rate" | "Fix the leaks costing you conversions every day" |
-| "Unlock the Pro features" | "You're missing Pro features on your current plan" |
+| "Get the Pro features" | "You're missing Pro features on your current plan" |
 
 **Where to apply loss framing:**
 - Email subject lines (loss framing increases open rates significantly)

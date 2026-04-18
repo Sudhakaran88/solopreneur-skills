@@ -1,7 +1,8 @@
 {
   "name": "solopreneur-skills",
   "version": "1.0.0",
-  "description": "42 AI agent skills for solopreneurs — CRO, SEO, GTM, cold email, pricing, and more.",
+  "private": true,
+  "description": "42 AI agent skills for solopreneurs — CRO, SEO, GTM, cold email, pricing, and more. This file exists for npm registry discoverability only; the repo has no runtime JS dependencies.",
   "keywords": [
     "claude",
     "claude-code",
